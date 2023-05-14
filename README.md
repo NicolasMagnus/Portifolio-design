@@ -1,2 +1,3 @@
 # Portifolio-design
-Minha evolução como designer
+## Minha evolução como designer.
+### Trabalhos que já fiz, e projetos pessoais.
